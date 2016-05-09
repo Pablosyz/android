@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">BMI 4.2</string>
+    <string name="IMCTitle">BMI Calculator</string>
+
+    <string name="altura">Height:</string>
+    <string name="DIMaltura">(cms)</string>
+    <string name="hintAltura">Enter your height</string>
+    <string name="errorAlturaVacio">Height field cannot be empty</string>
+
+    <string name="peso">Weight:</string>
+    <string name="DIMpeso">(kgs)</string>
+    <string name="hintPeso">Enter your weight</string>
+    <string name="errorPesoVacio">Weight field cannot be empty</string>
+
+    <string name="calculaIMC">BMI Calculation:</string>
+    <string name="IMCTexto">BMI Calculation</string>
+    <string name="errorIMCVacio">¡¡ERROR BMI without calculating!!</string>
+
+    <string name="genero">Gender:</string>
+    <string name="generoHombre">Male</string>
+    <string name="generoMujer">Female</string>
+    <string name="errorGeneroIlegal">Select gender</string>
+    <string name="errorGeneroDesconocido">ERROR: gender unknown</string>
+
+    <string name="edad">Age:</string>
+    <string name="errorEdadVacio">Age field cannot be empty</string>
+    <string name="errorEdadIlegal">Ilegal Age: </string>
+
+    <string name="calculaIGCE">Body Fat Calculation:</string>
+    <string name="IGCETexto">Body Fat Calulation</string>
+
+</resources>

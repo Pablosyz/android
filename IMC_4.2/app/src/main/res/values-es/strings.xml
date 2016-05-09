@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IMC 4.2</string>
+    <string name="IMCTitle">Calculadora de IMC</string>
+
+    <string name="altura">Altura:</string>
+    <string name="DIMaltura">(cms)</string>
+    <string name="hintAltura">Introduzca la altura</string>
+    <string name="errorAlturaVacio">El campo Altura no puede estar vacío</string>
+
+    <string name="peso">Peso:</string>
+    <string name="DIMpeso">(kgs)</string>
+    <string name="hintPeso">Introduzca el peso</string>
+    <string name="errorPesoVacio">El campo Peso no puede estar vacío</string>
+
+    <string name="calculaIMC">Cálculo de IMC:</string>
+    <string name="IMCTexto">Cálculo de IMC</string>
+    <string name="errorIMCVacio">¡¡ERROR IMC sin calcular!!</string>
+
+    <string name="genero">Sexo:</string>
+    <string name="generoHombre">Hombre</string>
+    <string name="generoMujer">Mujer</string>
+    <string name="errorGeneroIlegal">Seleccione género</string>
+    <string name="errorGeneroDesconocido">ERROR: Género desconocido</string>
+
+    <string name="edad">Edad:</string>
+    <string name="errorEdadVacio">El campo Edad no puede estar vacío</string>
+    <string name="errorEdadIlegal">Edad ilegal: </string>
+
+    <string name="calculaIGCE">Cálculo de IGCE:</string>
+    <string name="IGCETexto">Cálculo de IGCE</string>
+
+</resources>

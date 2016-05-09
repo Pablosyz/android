@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">IMC 4.1</string>
+
+    <string name="IMCTitle">Calculadora de IMC</string>
+    <string name="altura">Altura:</string>
+    <string name="DIMaltura">(cms)</string>
+    <string name="peso">Peso:</string>
+    <string name="sexo">Sexo:</string>
+    <string name="DIMpeso">(kgs)</string>
+    <string name="calculaIMC">Cálculo de IMC:</string>
+
+    <string name="hintAltura">Introduzca la altura</string>
+    <string name="hintPeso">Introduzca el peso</string>
+
+
+    <string name="errorAlturaVacio">El campo Altura no puede estar vacio</string>
+    <string name="errorAlturaInvalida">El valor Altura debe ser un número</string>
+    <string name="errorPesoVacio">El campo Peso no puede estar vacio</string>
+    <string name="errorPesoInvalido">El valor Peso debe ser un número</string>
+
+
+</resources>
