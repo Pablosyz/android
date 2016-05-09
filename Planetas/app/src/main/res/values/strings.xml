@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Planetas</string>
+
+    <string name="escoge_un_planeta">Escoge un planeta</string>
+
+    <string-array name="lista_de_planetas">
+        <item >Mercurio</item>
+        <item >Venus</item>
+        <item >La Tierra</item>
+        <item >Marte</item>
+        <item >Jupiter</item>
+        <item >Saturno</item>
+        <item >Urano</item>
+        <item >Neptuno</item>
+    </string-array>
+</resources>
