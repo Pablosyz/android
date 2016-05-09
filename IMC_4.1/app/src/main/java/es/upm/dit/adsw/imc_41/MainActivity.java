@@ -57,16 +57,16 @@ public class MainActivity extends AppCompatActivity {
     {
         if (alturaText.getText().length() == 0)
         {
-            Log.e("ADSW", "calculaIMC: altura vac�a");
+            Log.e("ADSW", "calculaIMC: altura vacía");
 
-            Toast toast = Toast.makeText(this, R.string.errorAlturaVacio, Toast.LENGTH_);
+            Toast toast = Toast.makeText(this, R.string.errorAlturaVacio, Toast.LENGTH_SHORT);
             toast.show();
 
             return;
         }
         if (pesoText.getText().length() <= 0)
         {
-            Log.e("ADSW", "calculaIMC: peso vac�o");
+            Log.e("ADSW", "calculaIMC: peso vacío");
 
             Toast toast = Toast.makeText(context, R.string.errorPesoVacio, Toast.LENGTH_SHORT);
             toast.show();
